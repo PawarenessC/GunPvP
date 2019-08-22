@@ -1,7 +1,7 @@
 # GunPvP
 
-# Dependency
+## Dependency
 ・EconomyAPI
 
-# Authors
+## Authors
 ・PawarenessC
