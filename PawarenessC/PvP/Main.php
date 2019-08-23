@@ -112,3 +112,11 @@ class Main extends pluginBase implements Listener{
 			break;
 		}
 	}
+	
+	public function canShot(Player $player, string $type){
+		return $this->guns[$player->getName()][$type]["bool"];
+	}
+	
+	public function shot(Player $player, string $type){
+	}
+		
